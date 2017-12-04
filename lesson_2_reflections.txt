@@ -6,6 +6,7 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
 	The repository is kind of final version while the working directory is local and maybe contains lots of not directly code related files. The staging area is in between. It is greqt for organisation.
+	With "git status" we can see directly if there is differences between last commit and containt of working directory.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
